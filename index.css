@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fonts {
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+}
+.navbar {
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 20px 100px;
+}
+.navmenu{
+    display: flex;
+    gap: 40px;
+}
+.navmenu a{
+    font-size: 16px;
+    font-weight: 500;
+    color: #000000;
+    text-decoration: none;
+}
+.navbtn button{
+    height: 40px;
+    width: 160px;
+    padding: 10px;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 1);
+    background-color: #30B868;
+    border-radius: 10px;
+    border: none;
+}
