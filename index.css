@@ -171,7 +171,7 @@ margin-bottom: 15px;
     align-items: center;
     text-align: center;
     background-color: rgb(232, 229, 229);
-    margin: 20px 120px;
+    margin: 0px 120px;
     padding: 40px;
 
 }
@@ -192,9 +192,13 @@ margin-bottom: 15px;
     border: 1px solid gray;
     background-color: #30B868;
     margin-bottom:10px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding-left: 30px;
 }
 .footer-section{
-    margin: 20px 120px;
+    margin: 0px 120px;
     background-color: #001931;
     padding: 30px;
 
